@@ -10,4 +10,5 @@ A compilation of writings related to Erin Hunter's _Warriors_ series
 --->
 
 ☀️ The adventures of Smoky the loner who, after being persuaded to found a cat clan, has a life-changing discovery.
+
 -![SunClan](WarriorsSunSamples.pdf)
